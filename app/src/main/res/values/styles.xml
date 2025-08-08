@@ -1,0 +1,13 @@
+<resources>
+    <!-- Other styles here -->
+
+    <style name="WeightTextViewStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:textSize">21dp</item>
+    </style>
+
+</resources>
